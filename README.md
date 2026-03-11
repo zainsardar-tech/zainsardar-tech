@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zain Sardar</h1>
+<h1 align="center">Hi, I'm Muhammad Zain ul Abidin</h1>
 <p align="center">
   AI Engineer & Full Stack Architect<br>
   Building Intelligent Digital Infrastructure & Scalable SaaS Solutions
