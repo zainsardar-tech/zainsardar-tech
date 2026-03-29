@@ -72,10 +72,3 @@ Hi! I'm Muhammad Zain ul Abidin, an AI Engineer and Full Stack Architect passion
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zainsardar-tech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=zainsardar-tech&theme=shadow_green&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainsardar-tech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
